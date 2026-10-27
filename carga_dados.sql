@@ -28,4 +28,9 @@ INSERT INTO servicos (municipio, unidade, data, equipamento, tipo_servico, causa
 ('macapá', 'eta_mestre_oscar', '2026-10-15', 'quadro_automacao', 'ajuste_tecnico', 'falha_comunicacao', 'Nenhum material aplicado', 2.0, 'concluido'),
 ('macapá', 'eta_terra_nova', '2026-10-15', 'infraestrutura_eletrica', 'instalacao_canaletas', 'melhoria_organizacao_fios', '5 metros de canaleta', 2.0, 'concluido'),
 ('macapá', 'eta_terra_nova', '2026-10-16', 'sensor_pressao', 'remanejamento_instrumentacao', 'readequacao_tubulacao', 'Remanejamento de 2x sensores de pressão e tubulação de apoio', 2.0, 'concluido'),
-('macapá', 'eta_terra_nova_bosque', '2026-10-19, 'sensor_pressao', 'instalacao_instrumentacao', 'melhoria_operacional', '4x colares de tomada, 1x caixa de passagem condulete, 4.0, 'concluido');
+('macapá', 'eta_terra_nova_bosque', '2026-10-19, 'sensor_pressao', 'instalacao_instrumentacao', 'melhoria_operacional', '4x colares de tomada, 1x caixa de passagem condulete, 4.0, 'concluido'),
+('macapá', 'eta_terra_nova_bosque', '2026-10-20', 'sensor_pressao', 'instalacao_instrumentacao', 'melhoria_operacional', '2x sensores de pressão 2.5 bar, 2x sensores de pressão 6 bar, conexões, 14m de conduíte corrugado, 18m de cabo', 4.0, 'concluido'), 
+('macapá', 'eta_floresta', '2026-10-21', 'chave_boia', 'ajuste_tecnico', 'desregulagem_nivel', 'Nenhum material aplicado (elevação de altura da boia no reservatório elevado)', 2.0, 'concluido'), 
+('macapá', 'pcp005', '2026-10-22', 'sensor_pressao', 'troca_sensor', 'falha_equipamento', '1x sensor de pressão de 2.5 bar', 2.0, 'concluido'), 
+('macapá', 'eta_terra_nova_bosque', '2026-10-23', 'chave_boia', 'troca_sensor', 'falha_equipamento', '1x chave boia de nível com contrapeso', 2.0, 'concluido'),
+('macapá', 'ete_terra_nova', '2026-10-26', 'switch_rede', 'troca_equipamento', 'falha_comunicacao', '1x switch de rede de automação', 3.0, 'concluido');

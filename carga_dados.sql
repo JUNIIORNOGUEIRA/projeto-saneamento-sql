@@ -27,4 +27,5 @@ INSERT INTO servicos (municipio, unidade, data, equipamento, tipo_servico, causa
 ('macapá', 'eta_terra_nova', '2026-10-14', 'sensor_pressao', 'instalacao_instrumentacao', 'melhoria_operacional', '2x sensores de pressão, 2x colares de tomada, 20m de fio/cabo, 16m de conduíte', 4.0, 'concluido'),
 ('macapá', 'eta_mestre_oscar', '2026-10-15', 'quadro_automacao', 'ajuste_tecnico', 'falha_comunicacao', 'Nenhum material aplicado', 2.0, 'concluido'),
 ('macapá', 'eta_terra_nova', '2026-10-15', 'infraestrutura_eletrica', 'instalacao_canaletas', 'melhoria_organizacao_fios', '5 metros de canaleta', 2.0, 'concluido'),
-('macapá', 'eta_terra_nova', '2026-10-16', 'sensor_pressao', 'remanejamento_instrumentacao', 'readequacao_tubulacao', 'Remanejamento de 2x sensores de pressão e tubulação de apoio', 2.0, 'concluido');
+('macapá', 'eta_terra_nova', '2026-10-16', 'sensor_pressao', 'remanejamento_instrumentacao', 'readequacao_tubulacao', 'Remanejamento de 2x sensores de pressão e tubulação de apoio', 2.0, 'concluido'),
+('macapá', 'eta_terra_nova_bosque', '2026-10-19, 'sensor_pressao', 'instalacao_instrumentacao', 'melhoria_operacional', '4x colares de tomada, 1x caixa de passagem condulete, 4.0, 'concluido');

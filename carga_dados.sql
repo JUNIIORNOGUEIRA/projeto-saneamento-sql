@@ -33,4 +33,7 @@ INSERT INTO servicos (municipio, unidade, data, equipamento, tipo_servico, causa
 ('macapá', 'eta_floresta', '2026-10-21', 'chave_boia', 'ajuste_tecnico', 'desregulagem_nivel', 'Nenhum material aplicado (elevação de altura da boia no reservatório elevado)', 2.0, 'concluido'), 
 ('macapá', 'pcp005', '2026-10-22', 'sensor_pressao', 'troca_sensor', 'falha_equipamento', '1x sensor de pressão de 2.5 bar', 2.0, 'concluido'), 
 ('macapá', 'eta_terra_nova_bosque', '2026-10-23', 'chave_boia', 'troca_sensor', 'falha_equipamento', '1x chave boia de nível com contrapeso', 2.0, 'concluido'),
-('macapá', 'ete_terra_nova', '2026-10-26', 'switch_rede', 'troca_equipamento', 'falha_comunicacao', '1x switch de rede de automação', 3.0, 'concluido');
+('macapá', 'ete_terra_nova', '2026-10-26', 'switch_rede', 'troca_equipamento', 'falha_comunicacao', '1x switch de rede de automação', 3.0, 'concluido'),
+('macapá', 'eta_mestre_oscar', '2026-10-27', 'quadro_automacao', 'ajuste_tecnico', 'falha_programacao_automacao', 'Nenhum material aplicado', 2.0, 'em_andamento'),
+('macapá', 'eta_terra_nova_poco', '2026-10-28', 'sensor_pressao', 'instalacao_instrumentacao', 'melhoria_operacional', '1x quadro automacao, 1x colar tomada, conexoes adaptadoras, 1x sensor pressao 6 bar', 3.0, 'em_andamento')
+('macapá', 'etam', '2026-10-28', 'sensor_nivel', 'configuracao_automacao', 'falha_leitura_nivel_cco', 'Nenhum material aplicado', 2.5, 'concluido');
